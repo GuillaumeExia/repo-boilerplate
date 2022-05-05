@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tortor est, con
 
 ## Demo
 
-[![What is RepliByte](https://github.com/Qovery/replibyte/raw/main/assets/video_.png)](https://www.youtube.com/watch?v=IKeLnZvECQw)
+[![My Demo](assets/video_.png)](https://www.youtube.com/watch?v=IKeLnZvECQw)
 
 ## Troubleshooting
 
